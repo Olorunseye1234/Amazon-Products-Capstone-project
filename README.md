@@ -31,6 +31,7 @@ This is where we include some basic lines of code or queries, even some of the D
 ~~~~
 ### Data Visualization.
 PK
+https://github.com/Olorunseye1234/Amazon-Products-Capstone-project/blob/main/Q1%263%20Chart%20Visualization.docx
 
 
    
