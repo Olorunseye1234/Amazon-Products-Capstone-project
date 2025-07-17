@@ -1,6 +1,12 @@
 # Amazon-Products-Capstone-project
 
 ### Project Title: Sales Analysis of Product Categories by Amazon 
+###[Project Overview](#project-overview)
+###[Data Sources](#data-overview)
+###[Tool Used](#tool-used)
+###[Data cleaning and preparation](#data-cleaning-and-preparations)
+###[Exploratory Data Analysis](#exploratory-data-analysis)
+
 ### Project Overview:
 This data analysis project aims to generate insight into the sales revenue performance and quantity of products per category reviewed by customers for the Amazon online e-commerce products over the past years. By analyzing the various Parameters in the data received, we seek to gather enough insight to make reasonable decisions, which then enable us to tell compelling stories around our data from the insight gained and to know the best performance from our data.
 ### Data Source : 
