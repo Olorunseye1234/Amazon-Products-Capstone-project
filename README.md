@@ -31,10 +31,10 @@ This is where we include some basic lines of code or queries, even some of the D
 ~~~~
 ### Data Visualization.
 PK
-https://github.com/Olorunseye1234/Amazon-Products-Capstone-project/blob/main/Q1%263%20Chart%20Visualization.docx
+[image](https://github.com/Olorunseye1234/Amazon-Products-Capstone-project/blob/main/Q1%263%20Chart%20Visualization.docx)
 
 
-   [Q1&3 Chart Visualization.docx](https://github.com/user-attachments/files/21300841/Q1.3.Chart.Visualization.docx)
+   [image][Q1&3 Chart Visualization.docx](https://github.com/user-attachments/files/21300841/Q1.3.Chart.Visualization.docx)
 
   
 
